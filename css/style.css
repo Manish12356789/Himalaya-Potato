@@ -3740,8 +3740,7 @@ ul.minicart .cart-price .new {
 .blog-post .blog-post-meta ul li i,
 .project-item-meta ul li.tag i {
     margin-right: 7px;
-    background: linear-gradient( 2deg, rgb(255, 127, 1) 0%, rgb(255, 5, 1) 100%);
-    background: -webkit-linear-gradient( 2deg, rgb(255, 127, 1) 0%, rgb(255, 5, 1) 100%);
+    background-color: var(--bg-brown);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
